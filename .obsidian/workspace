@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "728b19f7fbf0035b",
+    "id": "ad5d773558eae7c5",
     "type": "split",
     "children": [
       {
-        "id": "993fa42785631dd0",
+        "id": "6e4b62577311e024",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1-2-2022.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "83ed4a9be291e621",
+    "id": "a1f36212eb8efcce",
     "type": "split",
     "children": [
       {
-        "id": "afbcf6247a4cb874",
+        "id": "30b63c89be48fbe4",
         "type": "tabs",
         "children": [
           {
-            "id": "c62511f9e641f1b2",
+            "id": "d0679b330810a60c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "f7189bfc5c86594c",
+            "id": "a428e5dbb031fc8e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,23 +49,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 188
+    "width": 300
   },
   "right": {
-    "id": "d6e34cc1ec420330",
+    "id": "331cc6c6246114ce",
     "type": "split",
     "children": [
       {
-        "id": "e07fde58431666f4",
+        "id": "f760d08fb98fd8a4",
         "type": "tabs",
         "children": [
           {
-            "id": "d859a6c59091f902",
+            "id": "007f165f69168b01",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-2-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,10 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "993fa42785631dd0",
-  "lastOpenFiles": [
-    "1-2-2022.md",
-    "yay.md",
-    "test.md"
-  ]
+  "active": "6e4b62577311e024",
+  "lastOpenFiles": []
 }
