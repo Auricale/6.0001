@@ -7,8 +7,12 @@
         "id": "6e4b62577311e024",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1-2-2022.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-2-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,7 @@
     "collapsed": true
   },
   "active": "6e4b62577311e024",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "1-2-2022.md"
+  ]
 }
